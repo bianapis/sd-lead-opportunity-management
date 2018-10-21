@@ -1,0 +1,13 @@
+{
+  "productServiceReference" : "PS0892",
+  "dateTime" : "2018-09-11T08:50:05",
+  "employeeBusinessUnitReference" : "EBU9872",
+  "leadOpportunityCaptureTaskReference" : "LACT0983",
+  "customerCampaignReference" : "CC2145",
+  "leadOpportunityDescription" : "This is a sample lead",
+  "leadOpportunityStatus" : "open",
+  "customerReference" : "CUS1234",
+  "customerCampaignType" : "T2",
+  "customerCampaignVersionNumber" : "v3.7.1",
+  "leadOpportunityReference" : "LO218"
+}

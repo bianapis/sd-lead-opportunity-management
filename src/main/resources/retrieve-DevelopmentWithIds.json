@@ -1,0 +1,12 @@
+{
+  "productServiceReference" : "PS0892",
+  "dateTime" : "2018-09-11T08:50:05",
+  "employeeBusinessUnitReference" : "EBU9872",
+  "correspondenceReference" : "COR027238",
+  "leadOpportunityDescription" : "This is a sample lead",
+  "leadOpportunityStatus" : "open",
+  "customerReference" : "CUS1234",
+  "customerContactReference" : "CC0273",
+  "leadOpportunityReference" : "LO218",
+  "leadOpportunityDevelopmentTaskReference" : "LODT972"
+}

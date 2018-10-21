@@ -1,0 +1,14 @@
+{
+  "LeadOpportunityReportReference" : "LOR6523",
+  "productServiceReference" : "PS0892",
+  "dateTime" : "2018-09-11T08:50:05",
+  "employeeBusinessUnitReference" : "EBU9872",
+  "customerCampaignReference" : "CC2145",
+  "leadOpportunityDescription" : "This is a sample lead",
+  "leadOpportunityStatus" : "open",
+  "customerReference" : "CUS1234",
+  "customerCampaignType" : "T2",
+  "LeadOpportunityReport" : {},
+  "customerCampaignVersionNumber" : "v3.7.1",
+  "leadOpportunityReference" : "LO218"
+}

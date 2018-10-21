@@ -1,0 +1,10 @@
+{
+  "productServiceReference" : "PS0892",
+  "dateTime" : "2018-09-11T08:50:05",
+  "employeeBusinessUnitReference" : "EBU9872",
+  "leadOpportunityAssignmentReference" : "LOA98273",
+  "leadOpportunityDescription" : "This is a sample lead",
+  "leadOpportunityStatus" : "open",
+  "customerReference" : "CUS1234",
+  "leadOpportunityReference" : "LO218"
+}
